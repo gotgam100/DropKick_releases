@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/gotgam100/DropKick_releases/releases/latest">
-      <img src="https://img.shields.io/badge/최신_버전_다운로드-v0.2.0_(.dmg)-d4472b?style=for-the-badge&logo=apple&logoColor=white" alt="Download DropKick">
+      <img src="https://img.shields.io/badge/최신_버전_다운로드-v0.2.1_(.dmg)-d4472b?style=for-the-badge&logo=apple&logoColor=white" alt="Download DropKick">
     </a>
   </p>
 
@@ -71,7 +71,7 @@
 | **지원 OS** | **macOS 13 (Ventura)** 이상 |
 | **지원 아키텍처** | **Apple Silicon (M1 / M2 / M3 / M4)** 및 **Intel** 맥 (Universal 바이너리) |
 | **보안 검증** | **Apple 공식 공증(Notarized)** 완료 |
-| **최신 버전** | [**v0.2.0 바로 가기**](https://github.com/gotgam100/DropKick_releases/releases/latest) |
+| **최신 버전** | [**v0.2.1 바로 가기**](https://github.com/gotgam100/DropKick_releases/releases/latest) |
 
 </div>
 
