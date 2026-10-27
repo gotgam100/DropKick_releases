@@ -1,4 +1,4 @@
-# DropKick
+# DropKick(beta)
 
 드롭킥(DropKick)은 맥OS 전용 **한글 시나리오 작성 프로그램**입니다.
 
