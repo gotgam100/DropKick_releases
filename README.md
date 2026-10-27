@@ -10,15 +10,12 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/macOS-13.0%2B_(Ventura%20이상)-black?style=flat-square&logo=apple&logoColor=white" alt="macOS 13+">
-    <img src="https://img.shields.io/badge/Architecture-Universal_(M_시리즈%20%2F%20Intel)-e65100?style=flat-square" alt="Universal">
-    <img src="https://img.shields.io/badge/Apple-Notarized_(공증_완료)-2e7d32?style=flat-square&logo=apple&logoColor=white" alt="Notarized">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License">
+    <sub>macOS 13+ (Ventura 이상) &nbsp;·&nbsp; Universal (Apple Silicon & Intel) &nbsp;·&nbsp; Apple 공식 공증(Notarized) &nbsp;·&nbsp; MIT License</sub>
   </p>
 
   <br>
 
-  <img src="screenshots/editor.png" width="100%" alt="DropKick 메인 에디터 및 실시간 통계 분석" />
+  <img src="screenshots/editor.png" width="860" alt="DropKick 메인 에디터 및 실시간 통계 분석" />
 </div>
 
 <br>
@@ -44,7 +41,7 @@
 ### 🧩 3막 구조 스토리보드 (Save the Cat! 15단계)
 
 <p align="center">
-  <img src="screenshots/structure.png" width="100%" alt="DropKick 3막 구조 스토리보드" />
+  <img src="screenshots/structure.png" width="860" alt="DropKick 3막 구조 스토리보드" />
 </p>
 
 - **15단계 핵심 비트 카드**: 1막(설정), 2막(대립), 3막(해결)의 이야기 구조를 한눈에 조망하며 단계별 시놉시스 작성
@@ -56,7 +53,7 @@
 ### 🛡️ 안전한 수정고(Revisions) 관리 & 시각적 비교
 
 <p align="center">
-  <img src="screenshots/revisions.png" width="100%" alt="DropKick 수정고 비교 및 씬별 수정 내역" />
+  <img src="screenshots/revisions.png" width="860" alt="DropKick 수정고 비교 및 씬별 수정 내역" />
 </p>
 
 - **단계별 수정고 보관**: 1고, 2고, 3고 등 집필 단계마다 원고 전체를 영구 보관
