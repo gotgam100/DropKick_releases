@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/gotgam100/DropKick_releases/releases/latest">
-      <img src="https://img.shields.io/badge/최신_버전_다운로드-v0.2.1_(.dmg)-d4472b?style=for-the-badge&logo=apple&logoColor=white" alt="Download DropKick">
+      <img src="https://img.shields.io/badge/다운로드-최신_버전_(.dmg)-d4472b?style=for-the-badge&logo=apple&logoColor=white" alt="Download DropKick">
     </a>
   </p>
 
@@ -87,12 +87,12 @@
 | **지원 OS** | **macOS 13 (Ventura)** 이상 |
 | **지원 아키텍처** | **Apple Silicon (M1 / M2 / M3 / M4)** 및 **Intel** 맥 (Universal 바이너리) |
 | **보안 검증** | **Apple 공식 공증(Notarized)** 완료 |
-| **최신 버전** | [**v0.2.1 바로 가기**](https://github.com/gotgam100/DropKick_releases/releases/latest) |
+| **최신 버전** | [**최신 버전 바로 가기**](https://github.com/gotgam100/DropKick_releases/releases/latest) |
 
 </div>
 
 ### 🚀 설치 방법
-1. **[최신 버전 (.dmg) 받기](https://github.com/gotgam100/DropKick_releases/releases/latest)** 에서 `DropKick_버전_universal.dmg` 파일을 다운로드합니다.
+1. **[최신 버전 (.dmg) 받기](https://github.com/gotgam100/DropKick_releases/releases/latest)** 에서 최신 `.dmg` 파일을 다운로드합니다.
 2. 다운로드한 `.dmg`를 열고 **DropKick** 아이콘을 **응용 프로그램(Applications)** 폴더로 끌어 놓습니다.
 3. 처음 열 때 "인터넷에서 다운로드한 앱입니다" 안내 창이 나타나면 **'열기'**를 클릭합니다.
 
