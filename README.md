@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/app-icon.png" width="96" height="96" alt="DropKick" />
   <h1>DropKick</h1>
-  <p><b>맥OS 전용 글로벌 표준 한글 시나리오 작성 프로그램</b></p>
+  <p><b>본격! 한글 시나리오 작성 프로그램(beta)</b></p>
   
   <p>
     <a href="https://github.com/gotgam100/DropKick_releases/releases/latest">
@@ -21,9 +21,13 @@
 <br>
 
 > [!NOTE]
-> **왜 DropKick인가요?**  
-> 한국 영화·드라마 제작 환경에서 시나리오 양식이 통일되지 않아 겪는 비효율을 해결하기 위해 개발되었습니다.  
-> 글로벌 표준(Fountain) 형식을 기반으로 **화면과 PDF 줄바꿈 100% 일치**, **3막 구조화(Save the Cat!)**, **인물 설정·통계 분석**, **안전한 수정고 관리**까지 단 하나의 프로젝트 패키지로 제공합니다.
+> **왜 DropKick인가요?**
+> 
+> 한국 영화 제작 환경에서 시나리오 양식이 통일되지 않아 겪는 비효율과 피로함에 **'드롭킥!'** 을 날리고자 글로벌 표준(Fountain) 형식을 기반으로 한국어 시나리오 작성 프로그램을 개발하였습니다.
+> 
+> 직접 사용해 본 다양한 시나리오 작성 프로그램의 장점을 가져왔습니다.
+>
+> 아직 beta버전입니다. 의견과 조언 주시면 적극 반영하겠습니다.
 
 ---
 
@@ -35,15 +39,15 @@
   <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/split.png" width="860" alt="DropKick 화면 나누기: 스크립트와 인물 설정을 나란히 보기" />
 </p>
 
-- **6가지 표준 스타일 (`⌘1`~`⌘6`)**: 씬헤딩, 액션, 인물, 괄호지문, 대사, 전환
-- **자동 씬 번호(S#) 매김**: 씬 순서가 바뀌어도 번호가 자동으로 재정렬
-- **스마트 자동 완성**: 이미 등장한 인물 이름을 감지하여 빠르고 오타 없이 입력
+- **표준 스타일**: 씬헤딩, 액션, 인물, 괄호지문, 대사, 전환, 서브 헤더
+- **자동 씬 번호 기능**: 씬 순서가 바뀌어도 번호가 자동으로 재정렬
+- **스마트 자동 완성**: 줄바꿈 시 자동 스타일 변경, 이미 등장한 인물 이름을 감지하여 빠르고 오타 없이 입력
 - **실시간 분량·러닝타임 계산**: 전체 페이지 수, 할리우드 표준(1페이지 ≈ 1분) 기반 예상 러닝타임
 - **인물별 대사 점유율 & 씬별 호흡 분석**: 등장인물별 대사 비중 및 씬 길이 그래프를 실시간 시각화
 
 ---
 
-### 🧩 3막 구조 스토리보드 (Save the Cat! 15단계)
+### 🧩 3막 구조 스토리보드 (작법서 'Save the Cat!'의 15단계)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/structure.png" width="860" alt="DropKick 3막 구조 스토리보드" />
@@ -71,7 +75,7 @@
 ### 📄 화면 = PDF 100% 일치 (정밀 조판)
 - **줄바꿈까지 일치**: 화면에서 보이는 페이지와 실제 출력되는 PDF의 페이지·줄바꿈이 완벽하게 일치
 - **한글 맞춤 조판**: 단어 중간에서 끊기지 않는 자연스러운 줄바꿈 (Keep-all)
-- **표준 표지 & 넘버링**: 원클릭으로 정식 규격 표지와 페이지 번호가 포함된 PDF 출력
+- **표준 표지 & 넘버링**: 원클릭으로 정식 규격 표지와 페이지 번호가 포함된 PDF 및 Word파일 출력
 
 ### 🗂️ 올인원 프로젝트 파일 (`.dropkick`) & 프리셋
 - **단일 패키지 관리**: Finder에서는 파일 하나로 보이며, 내부에는 스크립트·인물 설정·메모·수정고가 통합 보관
@@ -90,7 +94,7 @@
 | 항목 | 사양 및 환경 |
 |:---|:---|
 | **지원 OS** | **macOS 13 (Ventura)** 이상 |
-| **지원 아키텍처** | **Apple Silicon (M1 / M2 / M3 / M4)** 및 **Intel** 맥 (Universal 바이너리) |
+| **지원 아키텍처** | **Apple Silicon** 및 **Intel** 맥 (Universal 바이너리) |
 | **보안 검증** | **Apple 공식 공증(Notarized)** 완료 |
 | **최신 버전** | [**최신 버전 바로 가기**](https://github.com/gotgam100/DropKick_releases/releases/latest) |
 
