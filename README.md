@@ -30,6 +30,11 @@
 ## ✨ 주요 기능 (Key Features)
 
 ### 🎬 표준 시나리오 에디터 & 실시간 통계 분석
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/split.png" width="860" alt="DropKick 화면 나누기: 스크립트와 인물 설정을 나란히 보기" />
+</p>
+
 - **6가지 표준 스타일 (`⌘1`~`⌘6`)**: 씬헤딩, 액션, 인물, 괄호지문, 대사, 전환
 - **자동 씬 번호(S#) 매김**: 씬 순서가 바뀌어도 번호가 자동으로 재정렬
 - **스마트 자동 완성**: 이미 등장한 인물 이름을 감지하여 빠르고 오타 없이 입력
