@@ -12,10 +12,6 @@
   <p>
     <sub>macOS 13+ (Ventura 이상) &nbsp;·&nbsp; Universal (Apple Silicon & Intel) &nbsp;·&nbsp; Apple 공식 공증(Notarized) &nbsp;·&nbsp; MIT License</sub>
   </p>
-
-  <br>
-
-  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/editor.png" width="860" alt="DropKick 메인 에디터 및 실시간 통계 분석" />
 </div>
 
 <br>
@@ -36,12 +32,17 @@
 ### 🎬 표준 시나리오 에디터 & 실시간 통계 분석
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/split.png" width="860" alt="DropKick 화면 나누기: 스크립트와 인물 설정을 나란히 보기" />
+  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/editor-stats.webp" width="860" alt="DropKick 스크립트 에디터와 실시간 통계 분석" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/editor-split.webp" width="860" alt="DropKick 화면 나누기: 스크립트와 인물 설정을 나란히 보기" />
 </p>
 
 - **표준 스타일**: 씬헤딩, 액션, 인물, 괄호지문, 대사, 전환, 서브 헤더
 - **자동 씬 번호 기능**: 씬 순서가 바뀌어도 번호가 자동으로 재정렬
 - **스마트 자동 완성**: 줄바꿈 시 자동 스타일 변경, 이미 등장한 인물 이름을 감지하여 빠르고 오타 없이 입력
+- **화면 나누기(스플릿 뷰)**: 스크립트 옆에 인물 설정·메모·3막 구조·통계·수정고를 나란히 띄워 놓고 보면서 작업
 - **실시간 분량·러닝타임 계산**: 전체 페이지 수, 할리우드 표준(1페이지 ≈ 1분) 기반 예상 러닝타임
 - **인물별 대사 점유율 & 씬별 호흡 분석**: 등장인물별 대사 비중 및 씬 길이 그래프를 실시간 시각화
 
@@ -50,7 +51,7 @@
 ### 🧩 3막 구조 스토리보드 (작법서 'Save the Cat!'의 15단계)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/structure.png" width="860" alt="DropKick 3막 구조 스토리보드" />
+  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/structure.webp" width="860" alt="DropKick 3막 구조 스토리보드" />
 </p>
 
 - **15단계 핵심 비트 카드**: 1막(설정), 2막(대립), 3막(해결)의 이야기 구조를 한눈에 조망하며 단계별 시놉시스 작성
@@ -62,7 +63,7 @@
 ### 🛡️ 안전한 수정고(Revisions) 관리 & 시각적 비교
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/revisions.png" width="860" alt="DropKick 수정고 비교 및 씬별 수정 내역" />
+  <img src="https://raw.githubusercontent.com/gotgam100/DropKick_releases/assets/screenshots/revisions.webp" width="860" alt="DropKick 수정고 비교 및 씬별 수정 내역" />
 </p>
 
 - **단계별 수정고 보관**: 1고, 2고, 3고 등 집필 단계마다 원고 전체를 영구 보관
