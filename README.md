@@ -18,12 +18,14 @@
 
 > [!NOTE]
 > **왜 DropKick인가요?**
-> 
-> 한국 영화 제작 환경에서 시나리오 양식이 통일되지 않아 겪는 비효율과 피로함에 분개하여, 많은 글로벌 시나리오 프로그램이 쓰는 공개 텍스트 형식인 Fountain을 기반으로 한국어 시나리오 작성 프로그램을 개발하였습니다.
-> 
-> 직접 사용해 본 다양한 시나리오 작성 프로그램의 장점을 가져왔습니다.
 >
-> 아직 beta버전입니다. 의견과 조언 주시면 적극 반영하겠습니다.
+> 한국 영화의 제작 및 교육 환경에서 시나리오 양식이 통일되지 않아 겪게 되는 비효율과 피로함에 분개하곤 했습니다. 이를 해결하기 위해선 먼저 한국어 시나리오 작성이 가능한 전용 툴이 필요하다고 생각했습니다. 저 또한 그러한 툴을 오랫동안 찾아 헤매기도 했구요.
+>
+> 이에 많은 글로벌 시나리오 작성 프로그램이 사용하는 공개 텍스트 형식인 Fountain을 기반으로 한국어 시나리오 작성 전용 프로그램을 직접 개발하였습니다.
+>
+> DropKick이라는 이름은 말 그대로 제멋대로인 한글 시나리오 양식에 드롭킥을 차고 싶은 제 심정이기도 했고, 또한 현재 제가 쓰고 있는 시나리오의 제목이기도 합니다.
+>
+> 그간 직접 사용해 본 다양한 시나리오 작성 프로그램의 장점을 가져왔습니다. 아직 beta버전입니다. 의견과 조언 주시면 적극 반영하겠습니다.
 
 ---
 
@@ -128,6 +130,34 @@
 
 ---
 
+## 📜 라이선스 및 오픈소스
+
+DropKick은 **MIT 라이선스**로 배포됩니다. 아래 오픈소스와 글꼴 덕분에 만들 수 있었습니다. 각 라이선스 전문은 앱 안에 함께 들어 있습니다.
+
+| 오픈소스 | 쓰임 | 라이선스 |
+|:---|:---|:---|
+| [Tauri](https://github.com/tauri-apps/tauri) | 맥 앱 만들기 | Apache-2.0 / MIT |
+| [React](https://github.com/facebook/react), [Vite](https://github.com/vitejs/vite) | 화면 | MIT |
+| [CodeMirror 6](https://github.com/codemirror/dev) | 원고 편집기 | MIT |
+| [pdf-lib](https://github.com/Hopding/pdf-lib), [fontkit](https://github.com/Hopding/fontkit) | PDF 내보내기 | MIT |
+| [docx](https://github.com/dolanmiu/docx) | Word 내보내기 | MIT |
+| [pdf.js](https://github.com/mozilla/pdf.js) | 외부 PDF 시나리오 읽기 | Apache-2.0 |
+| [fflate](https://github.com/101arrowz/fflate) | Word·한글 파일 풀기 | MIT |
+| [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime) | 영문 글꼴 | OFL-1.1 |
+| [나눔고딕코딩](https://github.com/google/fonts/tree/main/ofl/nanumgothiccoding) | 한글 글꼴 | OFL-1.1 |
+
+---
+
+## ✍️ 개발자의 말
+
+이 프로그램을 만든 저는 전문 개발자가 아닙니다. 작은 영화를 만들고 관련한 강의를 하기도 하는 영화 연출자이자 작가입니다.
+
+DropKick은 특별한 방식으로 만들어진 것이 아닙니다. 여러 오픈 소스와 바이브 코딩을 통해 만들어졌습니다.
+
+앞서 밝혔던 것처럼 이 프로그램을 통해 저와 제 주변의 작가들이 도움을 받길 바라고, 모르는 누군가가 조금 더 쉽게 시나리오를 작성하게 되길 바라겠습니다. 나아가 저보다 더 나은 누군가가 언젠가 더욱 훌륭한 한글 시나리오 작성 프로그램을 완성시켜 주길 바라는 마음입니다.
+
+---
+
 ## 💬 문의 및 피드백
 
 사용 중 버그를 발견하셨거나 기능 개선에 관한 제안이 있으시다면 언제든지 [GitHub Issues](https://github.com/gotgam100/DropKick_releases/issues)에 남겨주세요.  
@@ -136,6 +166,5 @@
 ---
 
 <div align="center">
-  <p><sub>DropKick은 MIT 라이선스를 따르며, OFL 라이선스의 Courier Prime 및 나눔고딕코딩 글꼴을 사용합니다.</sub></p>
   <p><sub>© 2026 DropKick. All rights reserved.</sub></p>
 </div>
