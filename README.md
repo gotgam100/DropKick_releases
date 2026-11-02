@@ -160,7 +160,11 @@ DropKick은 특별한 방식으로 만들어진 것이 아닙니다. 여러 오�
 
 ## 💬 문의 및 피드백
 
-사용 중 버그를 발견하셨거나 기능 개선에 관한 제안이 있으시다면 언제든지 [GitHub Issues](https://github.com/gotgam100/DropKick_releases/issues)에 남겨주세요.  
+사용 중 버그를 발견하셨거나 기능 개선에 관한 제안이 있으시다면 아래 두 곳 중 편한 곳에 남겨 주세요.
+
+- **[버그 제보 및 의견 남기기 (구글 폼)](https://forms.gle/wvM2BMZYv3guuYWx7)**: 계정 없이 바로 쓸 수 있습니다.
+- **[GitHub Issues](https://github.com/gotgam100/DropKick_releases/issues)**: GitHub 계정이 있으시다면 이쪽도 좋습니다.
+
 작가님들의 생생한 의견을 바탕으로 더 완성도 높은 도구를 만들어가겠습니다.
 
 ---
